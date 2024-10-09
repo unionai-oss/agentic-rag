@@ -1,3 +1,12 @@
+simple_wf.py
+custom_image.py
+agentic_rag.py
+agentic_nodes.py
+agentic_types.py
+simple_rag.py
+vector_store.py
+chroma_db/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
